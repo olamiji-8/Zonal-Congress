@@ -1,8 +1,9 @@
-ul > li{
+ul a > li{
     list-style-type: none;
 display: inline-block;
 margin: 20px;
 color: white;
+text-decoration: none;
 
 }
 .Nav-head{
@@ -41,7 +42,7 @@ color: white;
     cursor: pointer;
     
     }
-    ul > li{
+    ul a > li{
         list-style-type: none;
     display: inline-block;
     margin: 4px;

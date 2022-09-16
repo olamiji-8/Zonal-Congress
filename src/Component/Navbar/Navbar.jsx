@@ -10,10 +10,9 @@ const Navbar = () => {
        
         <Logo/>
         <ul>
-         <a href='#home'><li>Home</li></a>
-         <a href='#sermon'><li>Sermon</li></a>
-         <a href='#livestream'><li>Livestream</li></a>
-       
+         <li>Home</li>
+        <li>Sermon</li>
+        <li>Livestream</li>
         </ul>
      
         

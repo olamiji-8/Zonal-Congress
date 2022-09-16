@@ -4,6 +4,9 @@
     margin: 9px;
     cursor: pointer;
 }
+a{
+    color: white;
+}
 
 @media(max-width:1024px) {
     .Logo{

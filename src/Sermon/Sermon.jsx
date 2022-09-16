@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sermon = () => {
   return (
-    <div>Sermon</div>
+    <div></div>
   )
 }
 

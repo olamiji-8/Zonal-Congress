@@ -1,8 +1,9 @@
 import React from 'react'
+import "./Logo.css"
 
 const Logo = () => {
   return (
-    <div>Zonal Congress</div>
+    <div className='Logo'>Zonal Congress</div>
   )
 }
 

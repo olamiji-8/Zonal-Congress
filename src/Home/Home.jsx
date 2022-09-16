@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
         <Navbar/>
-       <img src={Zonal} alt='' width="100%" height="30%"/>
+       <img src={Zonal} alt='' width="100%"/>
     </div>
   )
 }

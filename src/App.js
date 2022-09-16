@@ -2,10 +2,11 @@ import Home from './Home/Home';
 import Sermon from './Sermon/Sermon';
 import Livestream from './Livestream/Livestream';
 
+
 function App() {
   return (
-    <div>
-     <Home/>
+    <div>  
+      <Home/>
      <Sermon/>
      <Livestream/>
     </div>

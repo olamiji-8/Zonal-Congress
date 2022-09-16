@@ -3,15 +3,60 @@ ul > li{
 display: inline-block;
 margin: 20px;
 color: white;
+
 }
-.Navbar{
+.Nav-head{
     height: 5rem;
     width: 100vw;
     background-color:black;
-    display: grid;
+    display: flex;
     place-items:center;
     position: fixed;
     top: 0;
     left: 0;
     z-index: 99;
+}
+.Navbar{
+    height: 100%;
+    display: flex;
+    gap: 18rem;
+    align-items: center;
+    position: relative;
+    
+}
+
+
+
+
+@media(max-width:1024px) {
+   
+    .Navbar{
+        height: 100%;
+    display: flex;
+    gap: 18rem;
+    align-items: center;
+    position: relative;
+    
+    }
+    ul > li{
+        list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    
+    
+    }
+    .Nav-head{
+        height: 5rem;
+        width: 100vw;
+        background-color:black;
+        display: flex;
+        place-items:center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 99;
+        font-size: 8px;
+    }
+    
 }

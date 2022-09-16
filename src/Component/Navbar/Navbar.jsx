@@ -4,6 +4,7 @@ import "./Navbar.css"
 
 const Navbar = () => {
   return (
+    <div className='Nav-head'>
     <div className='Navbar'>
         <Logo/>
         <ul>
@@ -11,6 +12,7 @@ const Navbar = () => {
             <li>Sermon</li>
             <li>Livestream</li>
         </ul>
+    </div>
     </div>
   )
 }

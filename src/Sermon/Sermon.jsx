@@ -10,7 +10,7 @@ const Sermon = () => {
       
         </div>
         <div>
-        <h3 className='sub-head2'>Day 2 Evening Session - Advancing in your kingdom wealth by Pastor Ayarinde Ayobello</h3>
+        <h3 className='sub-head2'>Day 2 Afternoon Session - 5 Secret of sustaining advancement by Pastor Daniel Olawande</h3>
         </div>
        
            

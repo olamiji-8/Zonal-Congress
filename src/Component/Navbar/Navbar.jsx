@@ -5,6 +5,11 @@ const Navbar = () => {
   return (
     <div>
         <Logo/>
+        <ul>
+            <li>Home</li>
+            <li>Sermon</li>
+            <li>Livestream</li>
+        </ul>
     </div>
   )
 }

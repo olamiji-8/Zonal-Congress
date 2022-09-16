@@ -2,7 +2,12 @@ import React from 'react'
 
 const Livestream = () => {
   return (
-    <div></div>
+    <div>
+        <h1>Live Stream</h1>
+
+        <h3>To join us in the service, you can click on the radio button. </h3>
+        <button>Radio</button>
+    </div>
   )
 }
 

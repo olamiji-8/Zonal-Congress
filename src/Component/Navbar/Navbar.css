@@ -22,6 +22,7 @@ color: white;
     gap: 18rem;
     align-items: center;
     position: relative;
+    cursor: pointer;
     
 }
 
@@ -33,16 +34,17 @@ color: white;
     .Navbar{
         height: 100%;
     display: flex;
-    gap: 10rem;
+    gap: 2rem;
     align-items: center;
     position: relative;
-    font-size: 8px;
+    font-size: 12px;
+    cursor: pointer;
     
     }
     ul > li{
         list-style-type: none;
     display: inline-block;
-    margin: 3px;
+    margin: 4px;
     color: white;
     
     

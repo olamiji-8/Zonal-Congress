@@ -2,6 +2,7 @@
     color: white;
     font-size: 20px;
     margin: 9px;
+    cursor: pointer;
 }
 
 @media(max-width:1024px) {
@@ -9,5 +10,6 @@
         color: white;
         font-size: 13px;
         margin: 10px;
+        cursor: pointer;
     }  
 }

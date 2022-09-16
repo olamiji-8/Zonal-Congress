@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Sermon.css"
 
 const Sermon = () => {
   return (

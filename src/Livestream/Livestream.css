@@ -9,3 +9,6 @@
 .radio{
     text-align: center;
 }
+.livestream{
+    scroll-behavior: smooth;
+}

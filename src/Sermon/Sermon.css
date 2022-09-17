@@ -25,3 +25,6 @@
 .paragraph a:hover{
     background-color: darkblue;
 }
+.sermon{
+    scroll-behavior: smooth;
+}

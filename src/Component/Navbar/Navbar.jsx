@@ -14,9 +14,9 @@ const Navbar = () => {
        <Logo/>
       <ul>
       <Router>
-        <Link to="#home"> <li>Home</li></Link>
-        <Link to="#sermon"><li>Sermon</li></Link>
-        <Link to="#livestream"><li>Livestream</li></Link>
+        <Link to="#home" > <li>Home</li></Link>
+        <Link to="#sermon" smooth><li>Sermon</li></Link>
+        <Link to="#livestream" smooth><li>Livestream</li></Link>
         </Router>
       </ul>
        

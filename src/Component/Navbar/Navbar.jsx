@@ -1,22 +1,29 @@
 import React from 'react'
 import Logo from '../Logo/Logo'
 import "./Navbar.css"
-
+import {BrowserRouter as Router} from "react-router-dom"
+import { HashLink as Link } from 'react-router-hash-link'
 
 
 const Navbar = () => {
   return (
-    <div className='Nav-head'>
-    <div className='Navbar'>
+    <div className='Nav-head' >
+      
+      <div className='Navbar'>
        
-        <Logo/>
-       <ul>
-        <li>Home</li>
-        <li>Sermon</li>
-        <li>Livestream</li>
-       </ul>
-        
-    </div>
+       <Logo/>
+      <ul>
+      <Router>
+        <Link to="#home"> <li>Home</li></Link>
+        <Link to="#sermon"><li>Sermon</li></Link>
+        <Link to="#livestream"><li>Livestream</li></Link>
+        </Router>
+      </ul>
+       
+   </div>
+      
+      
+    
     </div>
   )
 }

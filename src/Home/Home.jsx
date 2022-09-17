@@ -5,7 +5,7 @@ import Zonal from "../Assets/zonal.jpeg";
 
 const Home = () => {
   return (
-    <div>
+    <div id='home'>
       
         <Navbar/>
        <img src={Zonal} alt='' width="100%" className='zonal'/>

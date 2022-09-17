@@ -1,21 +1,11 @@
-a > .btn{
-    background-color: darkblue;
-    color: white;
-    height: 50%;
-    width: 20%;
-    border: none;
-    outline: none;
-    padding: 5px;
-    font-size: 20px;
-    border-radius: 4px;
-    position: relative;
-   margin: 20px;
-   cursor: pointer;
-}
+
 .heading{
     text-align: center;
 
 }
 .sub-head{
+    text-align: center;
+}
+.radio{
     text-align: center;
 }

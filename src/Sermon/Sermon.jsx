@@ -3,7 +3,7 @@ import "./Sermon.css"
 
 const Sermon = () => {
   return (
-    <div>
+    <div id='sermon' >
         <div>
              <h1 className='heading'>SERMON</h1>
             <h3 className='sub-head1'>Day 1 Evening Session - Advancing in your kingdom wealth by Pastor Ayarinde Ayobello</h3>

@@ -1,6 +1,7 @@
 import React from 'react'
 import Logo from '../Logo/Logo'
 import "./Navbar.css"
+import { Link, Router } from 'react-router-dom'
 
 
 const Navbar = () => {
@@ -9,10 +10,11 @@ const Navbar = () => {
     <div className='Navbar'>
        
         <Logo/>
+        <Router></Router>
         <ul>
-         <li>Home</li>
-        <li>Sermon</li>
-        <li>Livestream</li>
+        <Link style={{textDecoration: 'none'}} to='./'><li>Home</li></Link>
+        <Link style={{textDecoration: 'none'}} to='./sermon'><li>Sermon</li></Link>
+        <Link style={{textDecoration: 'none'}} to='./livestream'><li>Livestream</li></Link>
         </ul>
      
         

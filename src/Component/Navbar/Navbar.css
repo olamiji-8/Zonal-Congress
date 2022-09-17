@@ -1,4 +1,4 @@
-ul a > li{
+ul > li{
     list-style-type: none;
 display: inline-block;
 margin: 20px;

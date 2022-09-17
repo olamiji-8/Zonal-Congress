@@ -4,23 +4,12 @@ export const links = [
         path: '/'
     },
     {
-        name: "About",
-        path: '/about'
+        name: "Sermon",
+        path: '/sermon'
     },
     {
-        name: "Gallery",
-        path: '/gallery'
+        name: "Livestream",
+        path: '/livestream'
     },
-    {
-        name: "Plans",
-        path: '/plans'
-    },
-    {
-        name: "Trainers",
-        path: '/trainers'
-    },
-    {
-        name: "Contact",
-        path: '/contact'
-    }
+  
 ]

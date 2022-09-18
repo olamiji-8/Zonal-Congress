@@ -22,7 +22,28 @@ const Sermon = () => {
         <h3 className='sub-head3'>Day 2 Evening Session - Breaking sturborn curses against your advancement by Pastor Jimoh Gbenga</h3>
         <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Zonal%20congress%20Day%202%20Evening%20session%20by%20Jimoh%20Gbenga.mp3?alt=media&token=7a1cffec-f60f-4fa2-acaa-75a81b5b3df3'>Click here</a></h4>
         </div>
-       
+        <div>
+        <h3 className='sub-head3'>Day 3 Morning Session - Advance beyond your horizon by Pastor Emmanuel Oladapo</h3>
+        <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Advance%20beyond%20your%20horizon%20Pst%20Emmanuel%20Oladapo%20reduced%20noise.mp3?alt=media&token=166136fd-4f6a-4adf-a5b9-34f3f806a68e'>Click here</a></h4>
+        </div>
+        <div>
+        <h3 className='sub-head3'>Day 3 Afternoon Session - Aggressive evangelism as a tool of advancing the kingdom by Evang. Sola Oki</h3>
+        <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Zonal%20congress%20Day%203%20Afternoon%20Evang.%20Sola%20Oke.mp3?alt=media&token=b913859c-1e85-4706-a178-08fded102680'>Click here</a></h4>
+        </div>
+        <div>
+        <h3 className='sub-head3'>Day 3 Evening Session I - Advancing in the supernatural by Pastor Ibukun Onifade</h3>
+        <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Zonal%20congress%20Day%203%20Evening%20by%20Pastor%20Ibukun%20Onifade.mp3?alt=media&token=baee8152-7a87-4729-9136-e8e70ee70900'>Click here</a></h4>
+        </div>
+        <div>
+        <h3 className='sub-head3'>Day 3 Evening Session II- True love by Pastor (Mrs.) Bukola Adeboye and Pastor Kolawole Adeboye</h3>
+        <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Zonal%20congress%20Day3%20Evening2%20by%20Pastor%20mr%20and%20mrs%20Kolawole.mp3?alt=media&token=898e2133-ad05-4f6c-964b-03bfcc0dbe2b'>Click here</a></h4>
+        </div>
+        <div>
+        <h3 className='sub-head3'>Day 4 Morning Session- Advance by Pastor Alowoja Kayode</h3>
+        <h4 className='paragraph'>To listen and to download <a href='https://firebasestorage.googleapis.com/v0/b/zonal-congress.appspot.com/o/aac_Zonal%20congress%20Day%204%20Morning%20session%20by%20Pastor%20Alowoja%20Kayode(0).mp3?alt=media&token=bb44bb73-b96b-4df4-845c-89ae377c398e'>Click here</a></h4>
+        </div>
+
+               
            
      
     </div>
